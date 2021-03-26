@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/7qqrZ80YaV.gif' />
+<img src='http://g.recordit.co/n0VEdR4pKP.gif' />
 # Instagram Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
